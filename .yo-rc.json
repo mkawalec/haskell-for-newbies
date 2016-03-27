@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Why Haskell can make most of your problems disappear",
+    "packageVersion": "0.1.0",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mkawalec",
+    "githubRepository": "haskell-for-newbies"
+  }
+}

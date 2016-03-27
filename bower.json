@@ -1,0 +1,8 @@
+{
+  "name": "why-haskell-can-make-most-of-your-problems-disappear",
+  "version": "0.1.0",
+  "dependencies": {
+    "reveal.js": "~3.2.0",
+    "highlightjs": "~9.0.0"
+  }
+}
