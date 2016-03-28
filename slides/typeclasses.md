@@ -1,5 +1,8 @@
 ##  typeclasses
 
+    fun :: Num a => a -> a
+    fun x = x + 1
+
     class  Num a  where
         (+), (-), (*)       :: a -> a -> a
         negate              :: a -> a

@@ -1,7 +1,6 @@
 ##  whoami
 
-- I work at LCU as a contractor
-- I do consulting at X-Team
+- I work at X-Team, doing contracting at LCU
 - I run a [biggest Haskell
     meetup](http://www.meetup.com/Monadic-Warsaw/) in Poland
 - Cocreated a pretty neat flux variant, fluxApp

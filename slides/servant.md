@@ -4,3 +4,4 @@
 - if it compiles, it works (to an extent)
 - automatic swagger description generation
 - at the same time the framework is extensible
+- it will blow your mind

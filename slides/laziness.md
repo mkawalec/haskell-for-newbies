@@ -7,9 +7,6 @@
 
 let's write a fibbonacci
 
-    > :t scanl
-    scanl :: (b -> a -> b) -> b -> [a] -> [b]
-
     > let fib = 1 : (scanl (+) 1 fib)
     > take 10 fib
     [1,1,2,3,5,8,13,21,34,55]
