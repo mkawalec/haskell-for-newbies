@@ -1,1 +1,26 @@
-["index.md"]
+[
+    "index.md",
+    "whoami.md",
+    "overview.md",
+    "horsecat.md",
+    "ghci.md",
+    "strong-static-typing.md",
+    "easy-functions.md",
+    "typeclasses.md",
+    "low-on-boilerplate.md",
+    "based-on-category-theory.md",
+    "laziness.md",
+    "purity.md",
+    "stm.md",
+    "threading-model.md",
+    "learning-resources.md",
+    "school-of-haskell.md",
+    "real-world-haskell.md",
+    "haskellbook.md",
+    "other-learning-resources.md",
+    "useful-libs.md",
+    "database-access.md",
+    "web-frameworks.md",
+    "servant.md",
+    "speed.md"
+]
