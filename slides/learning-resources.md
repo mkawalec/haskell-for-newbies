@@ -1,3 +1,3 @@
 ## Hoogle
 
-<img src='/resources/hoogle.png'/>
+<img src='resources/hoogle.png'/>

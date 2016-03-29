@@ -1,3 +1,3 @@
 ##  real world haskell
 
-![](/resources/realworld.png)
+![](resources/realworld.png)

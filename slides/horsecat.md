@@ -1,1 +1,1 @@
-<img src="/resources/horsecat.png" style="width:70%"/>
+<img src="resources/horsecat.png" style="width:70%"/>

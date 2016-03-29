@@ -1,3 +1,3 @@
 ##  haskellbook
 
-![](/resources/haskellbook.png)
+![](resources/haskellbook.png)
