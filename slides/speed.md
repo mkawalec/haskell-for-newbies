@@ -1,4 +1,3 @@
 ##  speed
 
-![](/resources/speed.png)
-
+![](resources/speed.png)
