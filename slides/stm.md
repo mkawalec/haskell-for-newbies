@@ -10,7 +10,7 @@ Consider that:
 
     modify :: Env -> STM ()
     modify env = do
-        modifyTVar (counter env) (+1)
+        modifyTVar (counter env) (\x -> x + 1)
         writeTChan (chan env) "I've added one"
 
     > ourChan <- newTChanIO

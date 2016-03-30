@@ -18,3 +18,6 @@ Multiple ways of using this pattern:
 
     > :t (*2)
     (*2) :: Num a => a -> a
+
+    > map (\_ -> "foo") awesomeList
+    ["foo","foo","foo","foo","foo"]
