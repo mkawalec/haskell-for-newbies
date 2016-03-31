@@ -1,7 +1,7 @@
 ##  Easy functions
 
-    fun x = x + 1
-    > :t fun
+    addOne x = x + 1
+    > :t addOne
     Num a => a -> a
 
 - in most cases we don't have to specify the types ourselves, they will

@@ -1,7 +1,7 @@
 ##  typeclasses
 
-    fun :: Num a => a -> a
-    fun x = x + 1
+    addOne :: Num a => a -> a
+    addOne x = x + 1
 
     class  Num a  where
         (+), (-), (*)       :: a -> a -> a

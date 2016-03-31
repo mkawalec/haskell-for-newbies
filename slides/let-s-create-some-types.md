@@ -10,7 +10,7 @@
 
     > let wrappedVal = Just "hello"
     > :t wrappedVal
-    wrappedVal :: Maybe [Char]
+    wrappedVal :: Maybe Text
 
-    > let container = RecordContainer "Michal" 0 True
+    > let container = RecordContainer "Michał" 0 True
     > let modifiedContainer = container { rank = 5 }

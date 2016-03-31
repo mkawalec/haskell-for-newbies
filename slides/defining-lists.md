@@ -4,10 +4,10 @@ Let's define a list
 
     let aList = [4,2,5,1]
 
-    > a !! 2
+    > aList !! 2
     5
 
-    > sort a
+    > sort aList
     [1,2,4,5]
 
     > [1, "foobar"]

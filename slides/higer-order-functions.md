@@ -14,10 +14,6 @@ Multiple ways of using this pattern:
     [2, 4, 6, 0, 10]
 
     > map (\x -> x * 2) awesomeList
-    > map (*2) awesomeList
-
-    > :t (*2)
-    (*2) :: Num a => a -> a
 
     > map (\_ -> "foo") awesomeList
     ["foo","foo","foo","foo","foo"]
