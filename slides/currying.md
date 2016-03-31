@@ -15,5 +15,3 @@ And apply it completely to get a result
 
     > parap [1,2]
     [2,4]
-
-Add a javascript example
