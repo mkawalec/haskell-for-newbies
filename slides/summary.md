@@ -7,4 +7,3 @@
 - Refactoring is (almost) a joy
 - No need to write boring tests
 - It's fast if you want it to be
-- The language evolves organically without external transpilers

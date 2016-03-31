@@ -8,3 +8,5 @@
     propIdempotent xs = sort (sort xs) == sort xs
     > quickCheck propIdempotent
     +++ OK, passed 100 tests.
+
+    [1,5,3,6]

@@ -8,4 +8,3 @@
 - Haskell has a first-class interpreter, `ghci`
 - If you see a command line prompt in the following, it will most likely
     come from ghci
-- Awesome threads
